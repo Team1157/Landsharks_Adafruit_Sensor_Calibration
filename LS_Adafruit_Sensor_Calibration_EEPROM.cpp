@@ -1,4 +1,4 @@
-#include "Adafruit_Sensor_Calibration.h"
+#include "LS_Adafruit_Sensor_Calibration.h"
 
 /**************************************************************************/
 /*!

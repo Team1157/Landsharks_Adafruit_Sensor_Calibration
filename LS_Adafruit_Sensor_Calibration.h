@@ -55,6 +55,6 @@ public:
   float mag_field = 50;
 };
 
-#include "Adafruit_Sensor_Calibration_EEPROM.h"
+#include "LS_Adafruit_Sensor_Calibration_EEPROM.h"
 
 #endif

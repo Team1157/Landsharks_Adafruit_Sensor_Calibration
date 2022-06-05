@@ -1,7 +1,7 @@
 #ifndef __ADAFRUIT_SENSOR_CALIBRATION_EEPROM__
 #define __ADAFRUIT_SENSOR_CALIBRATION_EEPROM__
 
-#include "Adafruit_Sensor_Calibration.h"
+#include "LS_Adafruit_Sensor_Calibration.h"
 
 #include <FlashAsEEPROM.h>
 
